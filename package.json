@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "passport-oauth2": "1.x.x",
+    "passport-oauth2": "yWorks/passport-oauth2#6582a2f6b42d2f3106dcb4c39a735a408b306a87",
     "underscore": "^1.7.0"
   },
   "bugs": {
