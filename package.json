@@ -1,6 +1,6 @@
 {
   "name": "@sokratis/passport-linkedin-oauth2",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Passport for new LinkedIn Oauth2 (works with lite profile)",
   "main": "./lib",
   "repository": {
@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "passport-oauth2": "yWorks/passport-oauth2#6582a2f6b42d2f3106dcb4c39a735a408b306a87",
+    "passport-oauth2": "yWorks/passport-oauth2#e70f8f81f09dfc73be6c3b9c24b287a19b757d06",
     "underscore": "^1.7.0"
   },
   "bugs": {
